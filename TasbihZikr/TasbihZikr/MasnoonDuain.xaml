@@ -1,0 +1,47 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="TasbihZikr.MasnoonDuain"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Masnoon Duain" VerticalAlignment="Top" Height="80" Width="460" FontSize="48"/>
+        <ListBox Margin="10,100,5,0" Name="Duas" FontSize="30" toolkit:TiltEffect.IsTiltEnabled="True" FontFamily="Calibri Light">
+            <ListBox.Items>
+                <ListBoxItem x:Name="lookingMirror" Content="Dua When Looking in the Mirror" Margin="0,20,0,0" Tap="brazil_Tap" />
+                <ListBoxItem x:Name="afterFajrMaghrib" Content="Dua After Fajr and Maghrib prayer" Margin="0,20,0,0" Tap="afterFajrMaghrib_Tap"/>
+                <ListBoxItem x:Name="fearEnemy" Content="Dua When Fearing The Enemy" Margin="0,20,0,0" Tap="fearEnemy_Tap"/>
+                <ListBoxItem x:Name="visitSick" Content="Dua When Visiting the Sick" Margin="0,20,0,0" Tap="visitSick_Tap"/>
+                <ListBoxItem x:Name="duaAEating" Content="Dua After Eating" Margin="0,20,0,0" Tap="duaAEating_Tap"/>
+                <ListBoxItem x:Name="duaDressing" Content="Dua at the time of Dressing" Margin="0,20,0,0" Tap="duaDressing_Tap"/>
+                <ListBoxItem x:Name="duaSneezing" Content="Dua upon Sneezing" Margin="0,20,0,0" Tap="duaSneezing_Tap"/>
+                <ListBoxItem x:Name="seeSneezing" Content="Dua When Hearing Someone Sneeze" Margin="0,20,0,0" Tap="seeSneezing_Tap"/>
+                <ListBoxItem x:Name="becomeAngry" Content="Dua When You Become Angry" Margin="0,20,0,0" Tap="becomeAngry_Tap"/>
+                <ListBoxItem x:Name="duaeToilet" Content="Dua Before Entering Toilet" Margin="0,20,0,0" Tap="duaeToilet_Tap"/>
+                <ListBoxItem x:Name="dualToilet" Content="Dua After Leaving Toilet" Margin="0,20,0,0" Tap="dualToilet_Tap"/>
+                <ListBoxItem x:Name="duaSleeping" Content="Dua Before Sleeping" Margin="0,20,0,0" Tap="duaSleeping_Tap"/>
+                <ListBoxItem x:Name="wakingUp" Content="Dua When Waking UP from Sleep" Margin="0,20,0,0" Tap="wakingUp_Tap"/>
+                <ListBoxItem x:Name="enterHome" Content="Dua When Entering The Home" Margin="0,20,0,0" Tap="enterHome_Tap"/>
+                <ListBoxItem x:Name="leaveHome" Content="Dua When Leaving The House" Margin="0,20,0,0" Tap="leaveHome_Tap"/>
+            </ListBox.Items>
+        </ListBox>
+
+
+    </Grid>
+
+</phone:PhoneApplicationPage>
+
+

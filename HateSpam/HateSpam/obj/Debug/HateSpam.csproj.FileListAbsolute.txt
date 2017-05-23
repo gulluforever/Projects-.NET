@@ -1,0 +1,40 @@
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\bin\Debug\HateSpam.exe.config
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\bin\Debug\HateSpam.exe
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\bin\Debug\HateSpam.pdb
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.csprojResolveAssemblyReference.cache
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.Form1.resources
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.Properties.Resources.resources
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.csproj.GenerateResource.Cache
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.exe
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.pdb
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\bin\Debug\Mail.dll
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\bin\Debug\Proxy.dll
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\bin\Debug\Mail.xml
+c:\users\dexter\documents\visual studio 2012\Projects\HateSpam\HateSpam\bin\Debug\Proxy.xml
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\bin\Debug\HateSpam.exe.config
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.exe
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.pdb
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\bin\Debug\HateSpam.exe
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\bin\Debug\HateSpam.pdb
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\bin\Debug\Mail.xml
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\bin\Debug\Proxy.xml
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.csprojResolveAssemblyReference.cache
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.Form1.resources
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.Properties.Resources.resources
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.csproj.GenerateResource.Cache
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\bin\Debug\SmartThreadPool.dll
+F:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\bin\Debug\HateSpam.exe.config
+F:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.exe
+F:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.pdb
+F:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\bin\Debug\HateSpam.exe
+F:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\bin\Debug\HateSpam.pdb
+F:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\bin\Debug\SmartThreadPool.dll
+F:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\bin\Debug\Mail.xml
+F:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\bin\Debug\Proxy.xml
+F:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.csprojResolveAssemblyReference.cache
+F:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.Form1.resources
+F:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.Properties.Resources.resources
+F:\Win8Backup\Documents\Visual Studio 2012\Projects\HateSpam\HateSpam\obj\Debug\HateSpam.csproj.GenerateResource.Cache
+D:\WORKz\C# Projects\HateSpam\HateSpam\bin\Debug\HateSpam.exe.config
+D:\WORKz\C# Projects\HateSpam\HateSpam\obj\Debug\HateSpam.exe
+D:\WORKz\C# Projects\HateSpam\HateSpam\obj\Debug\HateSpam.pdb

@@ -1,0 +1,60 @@
+F:\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.exe.config
+F:\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.exe
+F:\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.pdb
+F:\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.csprojResolveAssemblyReference.cache
+F:\C# Projects\Article Copier\Article Copier\obj\Debug\Article_Copier.Form1.resources
+F:\C# Projects\Article Copier\Article Copier\obj\Debug\Article_Copier.Properties.Resources.resources
+F:\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.csproj.GenerateResource.Cache
+F:\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.exe
+F:\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.pdb
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.exe.config
+D:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.exe
+D:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.pdb
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.exe
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.pdb
+D:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.csprojResolveAssemblyReference.cache
+D:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article_Copier.Form1.resources
+D:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article_Copier.Properties.Resources.resources
+D:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.csproj.GenerateResource.Cache
+U:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.exe.config
+U:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.exe
+U:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.pdb
+U:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.exe
+U:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.pdb
+U:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.csprojResolveAssemblyReference.cache
+U:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article_Copier.Form1.resources
+U:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article_Copier.Properties.Resources.resources
+U:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.csproj.GenerateResource.Cache
+\\Vboxsvr\work\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.exe.config
+\\Vboxsvr\work\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.exe
+\\Vboxsvr\work\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.pdb
+\\Vboxsvr\work\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.exe
+\\Vboxsvr\work\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.pdb
+\\Vboxsvr\work\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.csprojResolveAssemblyReference.cache
+\\Vboxsvr\work\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article_Copier.Form1.resources
+\\Vboxsvr\work\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article_Copier.Properties.Resources.resources
+\\Vboxsvr\work\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.csproj.GenerateResource.Cache
+J:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.exe.config
+J:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.exe
+J:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.pdb
+J:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.exe
+J:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Article Copier.pdb
+J:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.csprojResolveAssemblyReference.cache
+J:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article_Copier.Form1.resources
+J:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article_Copier.Properties.Resources.resources
+J:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.csproj.GenerateResource.Cache
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\AngleSharp.dll
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\System.IO.dll
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\System.Runtime.dll
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\System.Threading.Tasks.dll
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\AngleSharp.xml
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\System.IO.xml
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\System.Runtime.xml
+D:\WORKz\C# Projects\Article Copier\Article Copier\bin\Debug\System.Threading.Tasks.xml
+D:\WORKz\C# Projects\Article Copier\Article Copier\obj\Debug\Article Copier.csproj.App.config

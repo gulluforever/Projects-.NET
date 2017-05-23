@@ -1,0 +1,25 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="TasbihZikr.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <TextBlock HorizontalAlignment="Left" Margin="97,93,0,0" TextWrapping="Wrap" Text="Tasbih" VerticalAlignment="Top" Height="140" Width="297" FontSize="100" FontFamily="Bodoni MT Poster Compressed"/>
+        <Button x:Name="startZikr"  Content="Start Zikr" HorizontalAlignment="Left" Margin="97,346,0,0" VerticalAlignment="Top" Width="262" Height="119" FontSize="30" FontFamily="Calibri" Click="starZikr_Click"/>
+        <TextBlock x:Name="ayatQuran" HorizontalAlignment="Left" Height="61" Margin="65,226,0,0" TextWrapping="Wrap" Text="O You who believe!  Remember Allah with much remembrance [33:41]" VerticalAlignment="Top" Width="345" TextAlignment="Center"/>
+        <TextBlock x:Name="ahadith" HorizontalAlignment="Left" Height="80" Margin="65,513,0,0" TextWrapping="Wrap" Text="For everything there is a polish, and the polish of the heart is the Dhikr (remembrance) of Allah" VerticalAlignment="Top" Width="345" TextAlignment="Center"/>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

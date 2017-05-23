@@ -1,0 +1,69 @@
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\Likes.Com BOT.exe.config
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\Likes.Com BOT.exe
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\Likes.Com BOT.pdb
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.csproj.App.config
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.csprojResolveAssemblyReference.cache
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com_BOT.Form1.resources
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com_BOT.Properties.Resources.resources
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.csproj.GenerateResource.Cache
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.exe
+c:\users\dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.pdb
+C:\Users\Dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Dexter\documents\visual studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\HtmlAgilityPack.xml
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\Likes.Com BOT.exe.config
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.exe
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.pdb
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.csproj.App.config
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.csprojResolveAssemblyReference.cache
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com_BOT.Form1.resources
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com_BOT.Properties.Resources.resources
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.csproj.GenerateResource.Cache
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\Likes.Com BOT.exe
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\Likes.Com BOT.pdb
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\HtmlAgilityPack.dll
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Extensions.dll
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Primitives.dll
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\HtmlAgilityPack.pdb
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\HtmlAgilityPack.xml
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Extensions.xml
+G:\Users\Dexter\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Primitives.xml
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\Likes.Com BOT.exe.config
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.exe
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.pdb
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\Likes.Com BOT.exe
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\Likes.Com BOT.pdb
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\HtmlAgilityPack.dll
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Extensions.dll
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Primitives.dll
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\HtmlAgilityPack.pdb
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\HtmlAgilityPack.xml
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Extensions.xml
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Primitives.xml
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.csproj.App.config
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.csprojResolveAssemblyReference.cache
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com_BOT.Form1.resources
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com_BOT.Properties.Resources.resources
+E:\Win8Backup\Documents\Visual Studio 2012\Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.csproj.GenerateResource.Cache
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\Likes.Com BOT.exe.config
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.exe
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.pdb
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\Likes.Com BOT.exe
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\Likes.Com BOT.pdb
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\HtmlAgilityPack.dll
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Extensions.dll
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Primitives.dll
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\HtmlAgilityPack.pdb
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\HtmlAgilityPack.xml
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Extensions.xml
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\bin\Debug\System.Net.Http.Primitives.xml
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.csproj.App.config
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.csprojResolveAssemblyReference.cache
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com_BOT.Form1.resources
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com_BOT.Form2.resources
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com_BOT.Properties.Resources.resources
+U:\WORKz\C# Projects\Likes.Com BOT\Likes.Com BOT\obj\Debug\Likes.Com BOT.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+c:\users\dexter\documents\visual studio 2012\Projects\BulkUnSpinner\BulkUnSpinner\bin\Debug\BulkUnSpinner.exe.config
+c:\users\dexter\documents\visual studio 2012\Projects\BulkUnSpinner\BulkUnSpinner\bin\Debug\BulkUnSpinner.exe
+c:\users\dexter\documents\visual studio 2012\Projects\BulkUnSpinner\BulkUnSpinner\bin\Debug\BulkUnSpinner.pdb
+c:\users\dexter\documents\visual studio 2012\Projects\BulkUnSpinner\BulkUnSpinner\obj\Debug\BulkUnSpinner.csprojResolveAssemblyReference.cache
+c:\users\dexter\documents\visual studio 2012\Projects\BulkUnSpinner\BulkUnSpinner\obj\Debug\BulkUnSpinner.Form1.resources
+c:\users\dexter\documents\visual studio 2012\Projects\BulkUnSpinner\BulkUnSpinner\obj\Debug\BulkUnSpinner.Properties.Resources.resources
+c:\users\dexter\documents\visual studio 2012\Projects\BulkUnSpinner\BulkUnSpinner\obj\Debug\BulkUnSpinner.csproj.GenerateResource.Cache
+c:\users\dexter\documents\visual studio 2012\Projects\BulkUnSpinner\BulkUnSpinner\obj\Debug\BulkUnSpinner.exe
+c:\users\dexter\documents\visual studio 2012\Projects\BulkUnSpinner\BulkUnSpinner\obj\Debug\BulkUnSpinner.pdb
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\bin\Debug\BulkUnSpinner.exe.config
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\obj\Debug\BulkUnSpinner.exe
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\obj\Debug\BulkUnSpinner.pdb
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\bin\Debug\BulkUnSpinner.exe
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\bin\Debug\BulkUnSpinner.pdb
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\obj\Debug\BulkUnSpinner.csprojResolveAssemblyReference.cache
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\obj\Debug\BulkUnSpinner.Form1.resources
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\obj\Debug\BulkUnSpinner.Properties.Resources.resources
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\obj\Debug\BulkUnSpinner.csproj.GenerateResource.Cache

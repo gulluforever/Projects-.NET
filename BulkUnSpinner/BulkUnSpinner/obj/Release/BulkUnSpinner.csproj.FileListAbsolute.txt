@@ -1,0 +1,8 @@
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\bin\Release\BulkUnSpinner.exe.config
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\bin\Release\BulkUnSpinner.exe
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\bin\Release\BulkUnSpinner.pdb
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\obj\Release\BulkUnSpinner.Form1.resources
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\obj\Release\BulkUnSpinner.Properties.Resources.resources
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\obj\Release\BulkUnSpinner.csproj.GenerateResource.Cache
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\obj\Release\BulkUnSpinner.exe
+U:\WORKz\C# Projects\BulkUnSpinner\BulkUnSpinner\obj\Release\BulkUnSpinner.pdb

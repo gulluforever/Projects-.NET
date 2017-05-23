@@ -1,0 +1,190 @@
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\Fonts\trado.ttf
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\TasbihZikr.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\TasbihZikr.pdb
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\AppManifest.xaml
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\TasbihZikr_Release_AnyCPU.xap
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Telerik.Windows.Controls.Primitives.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Telerik.Windows.Core.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Telerik.Windows.Controls.Primitives.xml
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Telerik.Windows.Core.pdb
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\Telerik.Windows.Core.xml
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\obj\Release\App.g.cs
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\obj\Release\AsmaulHusna.g.cs
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\obj\Release\MainPage.g.cs
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\obj\Release\MasnoonDuain.g.cs
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\obj\Release\StartZikr.g.cs
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\obj\Release\TasbihZikr.g.resources
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\obj\Release\TasbihZikr.Resources.AppResources.resources
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\obj\Release\TasbihZikr.csproj.GenerateResource.Cache
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\obj\Release\TasbihZikr.dll
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\obj\Release\TasbihZikr.pdb
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\obj\Release\XapCacheFile.xml
+C:\Users\Coder\documents\visual studio 2013\Projects\TasbihZikr\TasbihZikr\obj\Release\TasbihZikr.csprojResolveAssemblyReference.cache
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\ApplicationIcon.png
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\Tiles\IconicTileSmall.png
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Assets\Fonts\trado.ttf
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\TasbihZikr.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\TasbihZikr.pdb
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\AppManifest.xaml
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Properties\WMAppManifest.xml
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\TasbihZikr_Release_AnyCPU.xap
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Telerik.Windows.Controls.Primitives.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Telerik.Windows.Core.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\System.Windows.Interactivity.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Telerik.Windows.Controls.Primitives.pdb
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Telerik.Windows.Controls.Primitives.xml
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Telerik.Windows.Core.pdb
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\Telerik.Windows.Core.xml
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\de\System.Windows.Interactivity.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\en\System.Windows.Interactivity.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\es\System.Windows.Interactivity.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\it\System.Windows.Interactivity.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\obj\Release\TasbihZikr.csprojResolveAssemblyReference.cache
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\obj\Release\App.g.cs
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\obj\Release\AsmaulHusna.g.cs
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\obj\Release\MainPage.g.cs
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\obj\Release\MasnoonDuain.g.cs
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\obj\Release\StartZikr.g.cs
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\obj\Release\TasbihZikr.g.resources
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\obj\Release\TasbihZikr.Resources.AppResources.resources
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\obj\Release\TasbihZikr.csproj.GenerateResource.Cache
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\obj\Release\TasbihZikr.dll
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\obj\Release\TasbihZikr.pdb
+U:\WORKz\C# Projects\TasbihZikr\TasbihZikr\obj\Release\XapCacheFile.xml

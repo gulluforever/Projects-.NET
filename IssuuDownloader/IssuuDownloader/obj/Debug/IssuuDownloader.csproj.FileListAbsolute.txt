@@ -1,0 +1,9 @@
+U:\WORKz\C# Projects\IssuuDownloader\IssuuDownloader\bin\Debug\IssuuDownloader.exe.config
+U:\WORKz\C# Projects\IssuuDownloader\IssuuDownloader\bin\Debug\IssuuDownloader.exe
+U:\WORKz\C# Projects\IssuuDownloader\IssuuDownloader\bin\Debug\IssuuDownloader.pdb
+U:\WORKz\C# Projects\IssuuDownloader\IssuuDownloader\obj\Debug\IssuuDownloader.csprojResolveAssemblyReference.cache
+U:\WORKz\C# Projects\IssuuDownloader\IssuuDownloader\obj\Debug\IssuuDownloader.Form1.resources
+U:\WORKz\C# Projects\IssuuDownloader\IssuuDownloader\obj\Debug\IssuuDownloader.Properties.Resources.resources
+U:\WORKz\C# Projects\IssuuDownloader\IssuuDownloader\obj\Debug\IssuuDownloader.csproj.GenerateResource.Cache
+U:\WORKz\C# Projects\IssuuDownloader\IssuuDownloader\obj\Debug\IssuuDownloader.exe
+U:\WORKz\C# Projects\IssuuDownloader\IssuuDownloader\obj\Debug\IssuuDownloader.pdb

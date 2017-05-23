@@ -1,0 +1,12 @@
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\TranslatorBOT\TranslatorBOT\bin\Debug\TranslatorBOT.exe
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\TranslatorBOT\TranslatorBOT\bin\Debug\TranslatorBOT.pdb
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\TranslatorBOT\TranslatorBOT\bin\Debug\TranslatorBOT.xml
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\TranslatorBOT\TranslatorBOT\obj\x86\Debug\TranslatorBOT.Form1.resources
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\TranslatorBOT\TranslatorBOT\obj\x86\Debug\TranslatorBOT.Resources.resources
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\TranslatorBOT\TranslatorBOT\obj\x86\Debug\TranslatorBOT.vbproj.GenerateResource.Cache
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\TranslatorBOT\TranslatorBOT\obj\x86\Debug\TranslatorBOT.exe
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\TranslatorBOT\TranslatorBOT\obj\x86\Debug\TranslatorBOT.xml
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\TranslatorBOT\TranslatorBOT\obj\x86\Debug\TranslatorBOT.pdb
+U:\WORKz\C# Projects\TranslatorBOT\TranslatorBOT\obj\x86\Debug\TranslatorBOT.exe
+U:\WORKz\C# Projects\TranslatorBOT\TranslatorBOT\obj\x86\Debug\TranslatorBOT.xml
+U:\WORKz\C# Projects\TranslatorBOT\TranslatorBOT\obj\x86\Debug\TranslatorBOT.pdb

@@ -1,0 +1,24 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="TasbihZikr.StartZikr"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded" BeginLayoutChanged="PhoneApplicationPage_BeginLayoutChanged">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent" MouseLeftButtonDown="LayoutRoot_MouseLeftButtonDown">
+        <Button x:Name="setAlert" Content="Set Alert" HorizontalAlignment="Left" Margin="10,694,0,0" VerticalAlignment="Top" Height="74" Width="221" Click="setAlert_Click"/>
+        <Button x:Name="resetBtn" Content="Reset" HorizontalAlignment="Left" Margin="249,694,0,0" VerticalAlignment="Top" Height="74" Width="221" Click="resetBtn_Click"/>
+        <TextBlock x:Name="countBlock" HorizontalAlignment="Left" Margin="212,318,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="36"/>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

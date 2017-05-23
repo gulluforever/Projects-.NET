@@ -1,0 +1,40 @@
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\bin\Debug\ZenPhotoPosterMulti.exe
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\bin\Debug\ZenPhotoPosterMulti.pdb
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\bin\Debug\ZenPhotoPosterMulti.xml
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\ZenPhotoPosterMulti.Form1.resources
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\ZenPhotoPosterMulti.Resources.resources
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\ZenPhotoPosterMulti.exe
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\ZenPhotoPosterMulti.xml
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\ZenPhotoPosterMulti.pdb
+E:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\ZenPhotoPosterMulti.exe
+E:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\ZenPhotoPosterMulti.xml
+E:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\ZenPhotoPosterMulti.pdb
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work\Visual Studio 2010\Visual Studio 2010\Projects\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Documents\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dexter\Documents\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dexter\Documents\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dexter\Documents\ZenPhotoPosterMulti\ZenPhotoPosterMulti\bin\Debug\WordpressSpammer.exe
+C:\Users\Dexter\Documents\ZenPhotoPosterMulti\ZenPhotoPosterMulti\bin\Debug\WordpressSpammer.pdb
+C:\Users\Dexter\Documents\ZenPhotoPosterMulti\ZenPhotoPosterMulti\bin\Debug\WordpressSpammer.xml
+C:\Users\Dexter\Documents\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.Form1.resources
+C:\Users\Dexter\Documents\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.Resources.resources
+C:\Users\Dexter\Documents\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.exe
+C:\Users\Dexter\Documents\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.xml
+C:\Users\Dexter\Documents\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.pdb
+D:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.exe
+D:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.xml
+D:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.pdb
+D:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\bin\Debug\WordpressSpammer.exe
+D:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\bin\Debug\WordpressSpammer.pdb
+D:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\bin\Debug\WordpressSpammer.xml
+D:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.Form1.resources
+D:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.Resources.resources
+D:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.Form2.resources
+E:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.exe
+E:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.xml
+E:\New VB\ZenPhotoPosterMulti\ZenPhotoPosterMulti\obj\x86\Debug\WordpressSpammer.pdb
